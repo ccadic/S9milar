@@ -1,6 +1,9 @@
 # S9milar
 Making an opensource Asic Miner enclosure
 Here are the 3D files and solidworks files as a start to design your own opensource asic miner enclosure
+You have the solidworks files, the STEP files, the DXF for laser/cnc cutting
+
+![alt text](https://github.com/ccadic/S9milar/blob/main/mining-rigS9c.jpg)
 
 
 Help me paying the multiple prototype board and keen them opensource
